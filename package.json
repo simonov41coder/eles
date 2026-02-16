@@ -2,5 +2,8 @@
   "dependencies": {
     "express": "^5.2.1",
     "mineflayer": "^4.34.0"
+  },
+  "script": {
+    "start": "node main.jd"
   }
 }
