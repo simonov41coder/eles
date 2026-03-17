@@ -7,7 +7,7 @@ const PORT = process.env.PORT || 8080;
 // Add as many accounts as you want here
 const ACCOUNTS = [
   { username: 'Theo_not_bald', password: 'atk.exe', enabled: true },
-  { username: 'uraa_1945', password: 'ussr45', enabled: true}
+  { username: 'uraaa_1945', password: 'ussr45', enabled: true}
   // { username: 'Second_Account', password: 'password123', enabled: true }
 ];
 
